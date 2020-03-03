@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFECD36C5",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 57.016839,
+    "ref_longitude": 9.976898,
+    "ref_altitude": 10,
+    "contact_email": "ataha18@student.aau.dk",
+    "description": "TTN DK AAU"
+  }
+}
